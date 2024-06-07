@@ -1,0 +1,32 @@
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.exe
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.deps.json
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.runtimeconfig.json
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.dll
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.pdb
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim_geliştirme_uygulaması.Form1.resources
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.AssemblyInfoInputs.cache
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.AssemblyInfo.cs
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.dll
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\refint\aim geliştirme uygulaması.dll
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.pdb
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.genruntimeconfig.cache
+C:\Users\umuta\source\repos\aim geliştirme uygulaması\obj\Debug\net8.0-windows\ref\aim geliştirme uygulaması.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.exe
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\bin\Debug\net8.0-windows\aim geliştirme uygulaması.pdb
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim_geliştirme_uygulaması.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\refint\aim geliştirme uygulaması.dll
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.pdb
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\aim geliştirme uygulaması.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\Ders\pg\2.dönem\aim geliştirme uygulaması\obj\Debug\net8.0-windows\ref\aim geliştirme uygulaması.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aim geliştirme uygulaması/1.0.0": {
+        "runtime": {
+          "aim geliştirme uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aim geliştirme uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
